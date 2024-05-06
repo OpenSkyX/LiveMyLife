@@ -373,8 +373,8 @@ theme: livemylife
 # Gitter
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
 ##
-gitter:
-  room: your-community/your-room
+# gitter:
+#   room: your-community/your-room
 
 
 # Deployment

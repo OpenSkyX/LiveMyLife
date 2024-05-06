@@ -20,12 +20,17 @@ categories:
 > [Truffle](https://trufflesuite.com/docs/truffle/quickstart/)
 > 
 > [GEth](https://geth.ethereum.org/downloads)
+>
+> [ganache ethereum本地开发环境](https://archive.trufflesuite.com/ganache/)
 > 
 > [Remix](https://remix.ethereum.org/)
 
 ### 依赖插件
 > [Ethers](https://docs.ethers.org)
-> 
+>
+> [viem 比Ethers效率更高，速度更快的链上调用方式](https://viem.sh/)
+>
+> [web3modal前端钱包链接插件](https://web3modal.com/)
 
 
 ### Solidity
@@ -62,8 +67,15 @@ categories:
 > 
 
 
+### 线上网站托管平台
+
+> [vercel 一站式网站托管](https://vercel.com/)
+
 ### 数据
 >[TrueBlocks：开源数据索引器](https://trueblocks.io/docs/install/install-explorer/)
+>
+> [thegraph:链上数据检索](https://thegraph.com/docs/en/quick-start/)
 > 
-> 
-> 
+>[openchain 方法解码](https://openchain.xyz/) 
+>
+>[openchain 方法解码](https://openchain.xyz/) 
